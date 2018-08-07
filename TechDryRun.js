@@ -8,5 +8,4 @@ var hrrpt10= {
   }
 }
 
-
 hrrpt10.lol();
